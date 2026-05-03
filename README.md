@@ -43,4 +43,4 @@ Based on the data analysis, the following strategic actions are recommended:
 5. **Targeted Marketing:** Focus acquisition and retention efforts on high-revenue age groups (Young Adults and Middle-Aged) and optimize promotions for Express shipping users.
 
 ## 👨‍💻 Author
-**Professional Data Analyst** *Specializing in Data Preparation, SQL Analytics, and Business Intelligence Visualization.*
+**Data Analyst** *Specializing in Data Preparation, SQL Analytics, and Business Intelligence Visualization.*
